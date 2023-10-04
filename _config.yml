@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HomeLab Docs # the main title
+title: jerry HomeLab # the main title
 
-tagline: A Docs  site for my homelab # it will display as the sub-title
+tagline: 陳宏哲的小小筆記庫 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A Docs  site for my homelab
